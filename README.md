@@ -10,3 +10,5 @@
 ### Business case study in this project
 - SuperStore Company is a worldwide retailer. The Marketing Department plans to do advertising campaigns during Christmas and New Year's to say thanks to customers for their support over the last year. In addition, potential customers can be attracted to become loyal customers.
 - The Marketing Department asked the Data Analytics Department to assist in implementing a classification problem and also proposed a plan to use the RFM model in Python to segment customers to deploy a marketing program suitable for each customer group.
+
+## II. Data Visualization with Python

@@ -12,3 +12,5 @@
 - The Marketing Department asked the Data Analytics Department to assist in implementing a classification problem and also proposed a plan to use the RFM model in Python to segment customers to deploy a marketing program suitable for each customer group.
 
 ## II. Data Visualization with Python
+
+![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/5d98bd71-eed5-453a-a366-014a1c3bf65f)

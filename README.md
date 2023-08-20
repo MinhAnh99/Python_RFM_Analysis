@@ -16,3 +16,7 @@
 ![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/5d98bd71-eed5-453a-a366-014a1c3bf65f)
 
 ![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/299423fb-9a2c-44c0-8a88-fd2e773d8c7a)
+
+![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/5b752bb0-6bcf-4dbe-baaa-f8e2f3936c91)
+
+![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/db511375-b9d7-4cd8-87f1-85479f82d7f3)

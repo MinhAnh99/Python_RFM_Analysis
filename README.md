@@ -13,7 +13,6 @@
 
 ## II. Data Visualization with Python
 
-![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/5d98bd71-eed5-453a-a366-014a1c3bf65f)
 
 ![Capture1](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/35141a44-c268-4200-996f-8096b2415bad)
 

@@ -22,3 +22,5 @@
 ![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/db511375-b9d7-4cd8-87f1-85479f82d7f3)
 
 ![Capture](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/2d40fcec-669e-4c32-843b-c3003cf0f9c3)
+
+![Capture1](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/3b8e27ae-855e-4d74-899f-a81ccf96eb99)

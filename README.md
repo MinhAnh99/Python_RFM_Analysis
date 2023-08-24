@@ -24,6 +24,7 @@
 
 ![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/db511375-b9d7-4cd8-87f1-85479f82d7f3)
 
+![image](https://github.com/MinhAnh99/Python_RFM_Analysis/assets/74374068/7f9a2357-249a-4eb6-982f-fa687bf60e4c)
 
 
 

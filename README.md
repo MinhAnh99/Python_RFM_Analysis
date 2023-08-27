@@ -30,9 +30,16 @@
 
 ## III. Insights
 
+### 1. Recency, Frequency and Monetory value of Superstore:
+- There are not many good signals in Superstore's Recency and Frequency. As a result of the high rate of clients buying once and twice, SuperStore Company needs to pay close attention to F,R.
+- Few consumers make purchases that last for 7 times or more purchases. The median frequency for a retail company is six times, which is low. It means that customer loyalty is low.
+- The most revenue and profit comes from "New Customers".
 
-
-
+- Potential Loyalist (14.29%) and At Risk (12.14%) are the two segments with the highest percentage of customers.
+- A significant percentage of customers, 11.38% and 10.49%, respectively, were in bad groups including Hibernating and Lost Customers. less than 8% of revenue comes from these two organizations.
+- Less than 17% of the total number of customers are represented by the two segments with the highest ratings: Champions, 8.98%, and Loyal, 7.84%.
+- Potential loyalists have the biggest percentage of customers (14.29%), but just 9.02% of revenue. At Risk, the negative segment, accounts for 18.24% of revenue.
 ## IV. Recommendations
-
-
+The SuperStore Company should put more effort on improving Recency and Frequency performance.  SuperStore needs to discover strategies to reach out to customers in the At Risk group and focus their efforts on inspiring the Potential Loyalist group to become Loyal and Champions during this Christmas-New Year marketing campaign.
+- Send customized emails to customers with valuable information and suggestions regarding the best-selling subcategories, such as binders, paper, furnishings, phones, and storage.
+- Launch an exciting new campaign (exchange points, gifts, or vouchers) to get consumers in these groups to join in a survey that will help you determine the primary reason of their long absences.

@@ -30,7 +30,7 @@
 
 ## III. Insights
 
-### 1. Recency, Frequency and Monetory value of Superstore:
+### Recency, Frequency and Monetory value of Superstore:
 - There are not many good signals in Superstore's Recency and Frequency. As a result of the high rate of clients buying once and twice, SuperStore Company needs to pay close attention to F,R.
 - Few consumers make purchases that last for 7 times or more purchases. The median frequency for a retail company is six times, which is low. It means that customer loyalty is low.
 - The most revenue and profit comes from "New Customers".

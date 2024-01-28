@@ -1,5 +1,5 @@
 # Python_RFM_Analysis
-[Updating]
+
 ## I. Introduction
 ### Exploring RFM
 - RFM helps businesses by finding the most profitable customers and segmenting them based on their rankings for the purpose to generate more successful and personalized marketing efforts while minimizing overall spending.
